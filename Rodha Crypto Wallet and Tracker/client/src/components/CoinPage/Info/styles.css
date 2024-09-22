@@ -1,0 +1,15 @@
+.info-component h1 {
+  font-size: 1.2rem;
+  color: #fff;
+  margin: 0;
+  padding-left: 100px;
+}
+
+.info-p a {
+  text-decoration: underline;
+}
+
+.info-p a:hover {
+  color: var(--blue) !important;
+  transition: all 0.3s;
+}
